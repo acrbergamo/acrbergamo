@@ -1,8 +1,12 @@
 <h1 align="center"> Adriano Bergamo </h1>
 
-<p align="right"> Philosophy questions, data science decrypts. </p>
-<p align="right"> The mind inquires, numbers reveal. </p>
+<p align="right"> The Mind explores, numbers' secrets it finds. </p>
+<p align="right"> The Philosophy queries, data science unwinds. </p>
 </br>
+
+Philosophy's queries, data science unwinds.
+
+The mind explores, numbers' secrets it finds.
 
 ###  Method:
 
