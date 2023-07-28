@@ -4,9 +4,6 @@
 <p align="right"> The Philosophy queries, data science unwinds. </p>
 </br>
 
-Philosophy's queries, data science unwinds.
-
-The mind explores, numbers' secrets it finds.
 
 ###  Method:
 
