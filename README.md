@@ -19,13 +19,6 @@
 <h2>🚀 Vamos Colaborar!</h2>
 <p>Estou animado para colaborar em projetos inovadores, aprender continuamente e compartilhar meu conhecimento com a comunidade. Vamos explorar juntos o incrível mundo dos dados!</p>
 
-
-###  Method:
-
-<p align="left"> 1) Never accept anything as true unless it is evidently recognized as such. </p>
-<p align="left"> 2) Divide each difficulty into as many parts as possible to better examine each detail. </p>
-<p align="left"> 3) Conduct resolutions from the simplest, fundamental, and evident ones to the most complex, composite, and enigmatic ones. </p>
-<p align="left"> 4) Make complete enumerations and meticulous revisions everywhere to ensure nothing is omitted. </p>
 </br>
 
 ###  Tools:
