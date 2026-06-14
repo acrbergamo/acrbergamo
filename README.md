@@ -1,31 +1,42 @@
-<h1 align="center"> Adriano Bergamo </h1>
+<h1 align="center">Adriano Bergamo</h1>
+
+<p align="center">
+  <i>Ciência de Dados | Business Intelligence | Modelagem Estatística</i>
+</p>
+<br/>
 
 <p align="right"> The Mind explores, numbers' secrets it finds. </p>
 <p align="right"> The Philosophy queries, data science unwinds. </p>
 </br>
 
-<h1>👋 Olá, mundo!</h1>
-<p> Eu sou Adriano Bergamo, um apaixonado por dados e especialista em análise, inteligência de negócios e ciência de dados. Ao longo da minha carreira, tenho desbravado o vasto território dos dados, transformando números em insights significativos.</p>
+### Sobre Mim
+Profissional focado em dados, atuando no desenvolvimento de soluções em análise, inteligência de negócios e ciência de dados. Atualmente, sou bacharelando em **Ciências Econômicas** e **Estatística**, com experiência acadêmica complementar prévia em **Análise de Sistemas** e **Filosofia**.
 
-<h2>📊 Experiência</h2>
-<p>Minha experiência abrange a coleta, limpeza e análise de dados para impulsionar decisões informadas. Utilizo ferramentas como Python, SQL e R para extrair conhecimentos valiosos de conjuntos de dados complexos.</p>
+Minha abordagem profissional une o pensamento crítico da filosofia com o rigor matemático e estatístico para transformar bases de dados complexas em ativos estratégicos para a tomada de decisão.
 
-<h2>🔍 Inteligência de Negócios</h2>
-<p>No mundo da inteligência de negócios, desenvolvo painéis interativos e relatórios perspicazes, proporcionando uma visão clara das métricas essenciais para o sucesso empresarial. Estou constantemente buscando maneiras de melhorar a eficiência e a eficácia das operações por meio da análise de dados.</p>
+### Competências e Atuação
 
-<h2>💡 Ciência de Dados</h2>
-<p>Como cientista de dados, sou movido pela curiosidade e pela paixão por resolver problemas. Desenvolvo modelos preditivos e algoritmos que transformam dados em ações tangíveis. Estou sempre à procura de novos desafios e oportunidades para aplicar meu conhecimento em aprendizado de máquina e estatísticas.</p>
+*   **Análise e Engenharia de Dados:** Estruturação, higienização e análise exploratória de dados utilizando Python, SQL e R. Foco na integridade da informação e na automação de processos analíticos.
+*   **Business Intelligence:** Modelagem de dados e desenvolvimento de painéis interativos para o monitoramento de KPIs, garantindo eficiência operacional e visibilidade clara das métricas essenciais de negócio.
+*   **Ciência de Dados:** Aplicação de modelagem estatística e algoritmos de aprendizado de máquina para o desenvolvimento de modelos preditivos e resolução de problemas analíticos de alta complexidade.
 
-<h2>🚀 Vamos Colaborar!</h2>
-<p>Estou animado para colaborar em projetos inovadores, aprender continuamente e compartilhar meu conhecimento com a comunidade. Vamos explorar juntos o incrível mundo dos dados!</p>
+<br/>
 
-</br>
+### Ferramentas e Tecnologias
 
-###  Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+<br/>
 
 <div>
-<a href="https://github.com/acrbergamo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbergamo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/acrbergamo">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrbergamo&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
